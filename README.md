@@ -1,6 +1,6 @@
 # 日常屏幕亮度强化 - C 语言实现
 
-这是 [日常屏幕亮度强化 (Lumin Pro)](https://github.com/YuleBest/LuminPro) 的 C 语言版本，使用了 C 语言将 service.sh 进行实现并编译为可执行文件。
+这是 [日常屏幕亮度强化 (Lumin Pro)](https://github.com/YuleBest/LuminPro) 的 C 语言版本，使用了 C 语言将 `service.sh` 进行实现并编译为可执行文件。
 
 ## 目前支持的设备
 
