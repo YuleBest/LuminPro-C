@@ -20,4 +20,4 @@ pkg install clang
 clang -o service service.c
   ```
 
-5. 使用得到的 `service` 替换掉 [Release](https://github.com/YuleBest/LuminPro-C/release/tag/latest) 的压缩包内的 `service`。
+5. 使用得到的 `service` 替换掉 [Release](https://github.com/YuleBest/LuminPro-C/releases/latest) 的压缩包内的 `service`。
