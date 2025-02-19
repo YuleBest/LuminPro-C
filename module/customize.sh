@@ -41,6 +41,7 @@ check_bri_file() {
 }
 
 touch /data/adb/modules/LuminPro/DONT-RUN
+touch /data/adb/modules/LuminPro-C/DONT-RUN
 cat $MODPATH/NOTE.txt
 echo ""
 echo " [音量上键] 我了解并同意以上使用协议"
@@ -108,6 +109,7 @@ echo " - 模块策略："
 echo "   亮度达到 $FD_BRI 时，提升到 $MAXBRI"
 echo ""
 rm -f /data/adb/modules/LuminPro/DONT-RUN
+rm -f /data/adb/modules/LuminPro-C/DONT-RUN
 
 # 刷入完成
 echo " ~ 刷入完成，感谢您的使用"
