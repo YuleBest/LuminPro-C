@@ -20,6 +20,6 @@
 
 ### 缺点
 
-- 更新较慢，并非每一个 [Shell 版本](https://github.com/YuleBest/LuminPro)都会更新对应的 C 语言版本
+- 更新较慢，并非每一个 [Shell 版本](https://github.com/YuleBest/LuminPro) 都会更新对应的 C 语言版本
 
 - 可能会有 bug 和不稳定的问题，还请多多反馈
